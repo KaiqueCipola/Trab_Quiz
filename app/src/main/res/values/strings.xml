@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="text_cadastrar">Cadastre-se</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="deslogar">Deslogar</string>
+</resources>
